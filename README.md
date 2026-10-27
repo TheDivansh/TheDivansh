@@ -16,7 +16,8 @@
 
 ## About
 
-Building games and solving problems in C++. Interested in game development, competitive programming, C and C++. Based in Chandigarh and associated with Thapar Institute of Engineering And Technology.
+Building games and solving problems in C++. Interested in game development, competitive programming, C and C++. 
+Graduating in CSE from Thapar Institute of Engineering And Technology.
 
 ## Projects
 
