@@ -27,7 +27,6 @@ Building games and solving problems in C++. Interested in game development, comp
 ## Connect
 
 - [LinkedIn](https://linkedin.com/in/thedivansh)
-- [GitHub](https://github.com/thedivansh)
 
 ## Assets & licensing
 
